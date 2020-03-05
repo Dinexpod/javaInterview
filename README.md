@@ -7,3 +7,5 @@
 + [Java Collections](#javaCollections) ![icon][pls]
 
 [pls]:pls.png
+
+inspared by @enhorse
