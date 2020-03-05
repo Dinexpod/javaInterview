@@ -7,7 +7,7 @@
 + [Java Collections](#javaCollections) ![icon][pls]
 
 ## О себе
-+ [Расскажите _о себе_](aboutMyself.md#О себе)
++ [Расскажите о себе](aboutMyself.md#О-себе)
 
 [pls]:pls.png
 
