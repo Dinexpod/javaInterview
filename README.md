@@ -1,6 +1,6 @@
 # Теория и практика для собеседования Java Developer
 
-+ [О себе](#О себе) ![icon][pls]
++ [О себе](#О-себе) ![icon][pls]
 + [Почему JAVA](#whyJava) ![icon][pls]
 + [ООП](#oop) ![icon][pls]
 + [Java Core](#javaCore) ![icon][pls]
