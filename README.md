@@ -1,9 +1,9 @@
 # Теория и практика для собеседования по JAVA
 
-+ [О себе](#aboutMyself) ![icon][++]
-+ [Почему JAVA](#whyJava) ![icon][++]
-+ [ООП](#oop) ![icon][++]
-+ [Java Core](#javaCore) ![icon][++]
-+ [Java Collections Framework](#javaCollections) ![icon][++]
++ [О себе](#aboutMyself) [icon][pls]
++ [Почему JAVA](#whyJava) [pls]
++ [ООП](#oop) ![icon][pls]
++ [Java Core](#javaCore) ![icon][pls]
++ [Java Collections](#javaCollections) ![icon][pls]
 
-[++]:++.png
+[pls]:pls.png
