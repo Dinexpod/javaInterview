@@ -1,4 +1,4 @@
-# Теория и практика для собеседования по JAVA
+# Теория и практика для собеседования Java Developer
 
 + [О себе](#aboutMyself) ![icon][pls]
 + [Почему JAVA](#whyJava) ![icon][pls]
