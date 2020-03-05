@@ -8,4 +8,4 @@
 
 [pls]:pls.png
 
-inspared by @enhorse
+Inspared by [enhorse](https://github.com/enhorse)
